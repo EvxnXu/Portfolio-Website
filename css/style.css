@@ -301,3 +301,26 @@ h3 { font-size: var(--fs-h3) }
 
 
 /* footer */
+.coding{
+  max-width: 1000px;
+  margin: 0 auto;
+}
+.section-body-coding{
+  background: var(--clr-dark);
+  color: var(--clr-light);
+  padding: 1em 1em;
+}
+
+.section-body-coding a{
+  color: var(--clr-light);
+  font-size: var(--fs-h3);
+}
+
+.section-body-coding li{
+  font-size: 0.925rem;
+}
+
+.section-subtitle-coding{
+  background: var(--clr-accent);
+  font-size: var(--fs-h3);
+}
